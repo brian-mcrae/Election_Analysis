@@ -34,9 +34,12 @@ with open(file_to_save,"w") as txt_file:
     # txt_file.write("Hello World")
 
     # Write three counties to the file
-    txt_file.write("Arapahoe, ")
-    txt_file.write("Denver, ")
-    txt_file.write("Jefferson")
+    # txt_file.write("Arapahoe, ")
+    # txt_file.write("Denver, ")
+    # txt_file.write("Jefferson")
+    txt_file.write("Counties in the Election\n")
+    txt_file.write("-------------------------\n")
+    txt_file.write("Arapahoe\nDenver\nJefferson")
 
 # Close the file
 # outfile.close()
