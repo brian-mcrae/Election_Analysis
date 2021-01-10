@@ -21,7 +21,7 @@ executes business logic needed to perform the following calculations
 - Winning Vote Percentage
 
 ### Results
-(/analysis/election_analysis.png)
+!(/analysis/election_analysis.png)
 
 # Election Audit Summary
 This program was designed for re-use and re-purposing, and 
