@@ -64,7 +64,7 @@ with open(file_to_load) as election_data:
 
         # 4a: Write an if statement that checks that the
         # county does not match any existing county in the county list.
-        if county_name not in county_options
+        if county_name not in county_options:
 
             # 4b: Add the existing county to the list of counties.
             county_options.append(county_name)
